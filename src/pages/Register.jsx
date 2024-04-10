@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { registerUser } from "../services/User";
-import { auth } from "../Services/Firebase";
+import { auth } from "../services/Firebase";
 
 function Register() {
   const navigate = useNavigate();
