@@ -54,7 +54,7 @@ function Home() {
           Find all the previous question papers from G10-12
         </h1>
         <p>You can upload all the question papers and memos you have!</p>
-        <p>Sign in using user@user.com with the password 123456</p>
+        <p>Sign in using user@user.com with the password 123456 hello</p>
       </div>
       <div className="container mx-auto my-4 ">
         <Select
